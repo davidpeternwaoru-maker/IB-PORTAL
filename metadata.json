@@ -1,0 +1,5 @@
+{
+  "name": "IB Portal",
+  "description": "A modern web-based portal for a university Investment Banking Club featuring role-based access, report submissions, leaderboards, and a trading floor forum.",
+  "requestFramePermissions": []
+}
